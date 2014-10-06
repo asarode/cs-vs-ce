@@ -1,7 +1,0 @@
-{
-  "name": "cs4life",
-  "private": true,
-  "dependencies": {
-    "bootstrap-sass-official": "~3.2.0"
-  }
-}
